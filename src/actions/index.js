@@ -1,4 +1,4 @@
-import TopStories from '../components/TopStories';
+
 import * as c from './ActionTypes';
 
 export const getTopStoriesSuccess = (topStories) => ({
